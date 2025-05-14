@@ -1,5 +1,6 @@
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
-
+# NAME:VINOTH K R
+# REG.NO:212224050060
 **AIM:**
 
 To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
@@ -25,18 +26,31 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 **Procedure**
 
-/* write all the steps invloved */
+![Screenshot 2025-04-21 221428](https://github.com/user-attachments/assets/f892de61-6fd0-4b58-a14c-8c1d0f7827f3)
+
+
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming.
 
-Developed by: RegisterNumber:
 
-*/
+![image](https://github.com/user-attachments/assets/247dfc34-091d-417b-8e15-a1d83789e545)
+
 
 **RTL LOGIC FOR SISO Shift Register**
 
+
+![image](https://github.com/user-attachments/assets/3b90564f-ccd4-402b-90bb-7f5fd5f07835)
+
+
+
+
+
 **TIMING DIGRAMS FOR SISO Shift Register**
 
+![image](https://github.com/user-attachments/assets/b25c5ef6-7aa3-4e8d-8595-66863f7bbac0)
+
+
 **RESULTS**
+
+Thus,SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
